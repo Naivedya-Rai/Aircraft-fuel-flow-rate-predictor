@@ -5,6 +5,7 @@ The modeling of fuel flow in aircraft is a critical element in evaluating their 
 ![image](https://github.com/Naivedya-Rai/Aircraft-fuel-flow-rate-predictor/assets/122347651/6c1d7f1a-4eeb-4315-97b5-7ca5b0bada74)
 ![image](https://github.com/Naivedya-Rai/Aircraft-fuel-flow-rate-predictor/assets/122347651/938a6eef-6397-48a1-bd58-aea84f493b84)
 ![image](https://github.com/Naivedya-Rai/Aircraft-fuel-flow-rate-predictor/assets/122347651/341188f0-b0ed-46b8-a4fc-1ac21c985c1b)
+![image](https://github.com/Naivedya-Rai/Aircraft-fuel-flow-rate-predictor/assets/122347651/284a8978-2271-40fc-8a33-ca38b894e12d)
 
 
 # Future Scope
